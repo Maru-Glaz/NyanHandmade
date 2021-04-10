@@ -20,12 +20,12 @@ h1 {
 
 
 header p {
-  color: 3C8876
-  size: 35px
+  color: 3C8876;
+  font-size: 35px
 }
 main p {
-  color: 3C8876
-  size: 15px
+  color: 3C8876;
+  font-size: 15px
 }
 
 
@@ -34,4 +34,14 @@ main img {
 position: absolute;
 width: 345px;
 height: 555px;
+}
+
+
+
+main a {
+  color: B0FFEC;
+  background-color: 3C8876;
+  font-size: 25px;
+  border: 1px solid;
+  border-radius: 30px
 }
