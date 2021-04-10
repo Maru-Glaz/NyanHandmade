@@ -8,9 +8,20 @@ footer {
   background-color: B0FFEC
 }
 
+
+
 p {
   color: 3C8876
 }
 h1 {
   color: 387A6A
+}
+
+
+
+header p {
+  size: 35 px
+}
+main p {
+  size: 15 px
 }
