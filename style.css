@@ -10,22 +10,23 @@ footer {
 
 
 
-p {
-  color: 3C8876
-}
 h1 {
-  color: 387A6A
+  color: 387A6A;
+  font-size: 23px;
+  alight: center
 }
 
 
 
 header p {
   color: 3C8876;
-  font-size: 35px
+  font-size: 35px;
+  alight: center
 }
 main p {
   color: 3C8876;
-  font-size: 15px
+  font-size: 15px;
+  alight: left
 }
 
 
