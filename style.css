@@ -38,6 +38,10 @@ height: 555px;
 
 
 
+a{
+  color: 3C8876;
+  font-size: 17px
+}
 main a {
   color: B0FFEC;
   background-color: 3C8876;
