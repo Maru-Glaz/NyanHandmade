@@ -20,8 +20,18 @@ h1 {
 
 
 header p {
-  size: 35 px
+  color: 3C8876
+  size: 35px
 }
 main p {
-  size: 15 px
+  color: 3C8876
+  size: 15px
+}
+
+
+
+main img {
+position: absolute;
+width: 345px;
+height: 555px;
 }
