@@ -32,10 +32,12 @@ main p {
 
 
 main img {
-position: absolute;
+  position: absolute;
+  width: 347px;
+  height: 555px;
+  left: 81px;
+  top: 1090px
 }
-
-
 
 a{
   color: 3C8876;
