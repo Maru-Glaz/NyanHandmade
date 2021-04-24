@@ -34,7 +34,8 @@ main p {
 main img {
   width: 136px;
   height: 220px;
-  margin: 12px 12px 12px 12px;
+  margin: 35px 35px 35px 35px;
+  align: center;
 }
 
 a{
