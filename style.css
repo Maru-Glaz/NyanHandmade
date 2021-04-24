@@ -1,11 +1,11 @@
 header {
-  background-color: B0FFEC
+  background-color: B0FFEC;
 }
 main {
-  background-color: E3FFF8
+  background-color: E3FFF8;
 }
 footer {
-  background-color: B0FFEC
+  background-color: B0FFEC;
 }
 
 
@@ -13,7 +13,7 @@ footer {
 h1 {
   color: 387A6A;
   font-size: 23px;
-  text-align: center
+  text-align: center;
 }
 
 
@@ -21,18 +21,17 @@ h1 {
 header p {
   color: 3C8876;
   font-size: 35px;
-  text-align: center
+  text-align: center;
 }
 main p {
   color: 3C8876;
   font-size: 15px;
-  text-align: left
+  text-align: left;
 }
 
 
 
 main img {
-  position: absolute;
   width: 136px;
   height: 220px;
   margin: 12px 12px 12px 12px;
@@ -47,5 +46,5 @@ main a {
   background-color: 3C8876;
   font-size: 25px;
   border: 1px solid;
-  border-radius: 30px
+  border-radius: 30px;
 }
