@@ -13,7 +13,7 @@ footer {
 h1 {
   color: 387A6A;
   font-size: 23px;
-  alight: center
+  text-alighn: center
 }
 
 
@@ -21,12 +21,12 @@ h1 {
 header p {
   color: 3C8876;
   font-size: 35px;
-  alight: center
+  text-alighn: center
 }
 main p {
   color: 3C8876;
   font-size: 15px;
-  alight: left
+  text-alighn: left
 }
 
 
