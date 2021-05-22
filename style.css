@@ -43,6 +43,7 @@ main img {
   width: 136px;
   height: 220px;
   margin: 50px 50px 50px 50px;
+  align: center;
 }
 
 a{
