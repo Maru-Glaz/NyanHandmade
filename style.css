@@ -34,7 +34,7 @@ header p {
 main p {
   color: 3C8876;
   font-size: 15px;
-  text-align: left;
+  align: center;
 }
 
 
@@ -43,7 +43,7 @@ main img {
   width: 136px;
   height: 220px;
   margin: 50px 50px 50px 50px;
-  align: center;
+  text-align: center;
 }
 
 a{
