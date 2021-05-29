@@ -21,14 +21,6 @@ h1 {
 
 
 
-title {
-  color: 387A6A;
-  font-size: 30px;
-  text-align: center;
-}
-
-
-
 h4 {
   color: 387A6A;
   font-size: 14px;
@@ -40,7 +32,7 @@ h4 {
 header p {
   color: 3C8876;
   font-size: 35px;
-  text-align: left;
+  text-align: center;
 }
 main p {
   color: 3C8876;
